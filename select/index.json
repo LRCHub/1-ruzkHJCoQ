@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Re:HEROINES",
+  "base_artist": "花譜",
+  "createdAt": "2025-12-12T13:13:44.509653Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Re:HEROINES",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/01_Re_HEROINES_花譜.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Re:HEROINES (ポリスピカデリー Remix)",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/02_Re_HEROINES_(ポリスピカデリー_Remix)_花譜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Re:HEROINES",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_Re_HEROINES_花譜.txt"
+    }
+  ]
+}
